@@ -1,0 +1,1 @@
+javascript:Qr=window.getSelection?window.getSelection().toString():document.selection.createRange().text;if(!Qr){void(Qr=prompt('Enter DOI to resolve, e.g. 10.1000/202:',''))}if(Qr)location.href='http://doi.org/'+escape(Qr)

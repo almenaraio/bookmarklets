@@ -1,1 +1,0 @@
-javascript:Qr=window.getSelection?window.getSelection().toString():document.selection.createRange().text;if(!Qr){void(Qr=prompt('Enter short URL to resolve, e.g. http://bit.ly/38pOeX4:',''))}if(Qr)window.open(location.href='http://urlex.org/expand?url='+escape(Qr))(window.location);

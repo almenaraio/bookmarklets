@@ -18,7 +18,7 @@ These bookmarklets are designed to resolve the following URLs (as an illustratio
 
 **Wordreference:** https://www.wordreference.com/es/translation.asp?tranword=# (to translate from English to Spanish)
 
-The bookmarklets are written to resolve the URL in the same TAB or opening a new TAB.
+The bookmarklets are written to resolve the URL in the same TAB.
 
 Below you have some images that explain how to use these bookmarklets.
 
